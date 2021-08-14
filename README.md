@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhadgaA
 - 👀 I’m interested in AI, ML and Data Analysis. 
-- 🌱 I’m currently learning Machine Learning and Deep Learning for Beginners.
+- 🌱 I’m currently learning Machine Learning and Deep Learning with fast.ai.
 - 💞️ I’m looking to collaborate on anything involving ML and data analysis 
 - 📫 How to reach me - email: khadgajyothalli@gmail.com.
 
