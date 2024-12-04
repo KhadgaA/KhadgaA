@@ -1,6 +1,7 @@
 # 💫About Me :
 ### 🔭 I’m currently working on
 - AI-Generated Image Authentication for my Master Thesis, focusing on content originality, attribution, and ethical considerations.
+- My Resume: [Link](https://github.com/KhadgaA/KhadgaA/blob/main/Khadga_Resume.pdf)
 
 ### 👯 I’m looking to collaborate on
 - AI and machine learning projects, particularly those involving deep learning, computer vision, and NLP.
@@ -11,7 +12,7 @@
 - Cutting-edge research methodologies in AI and deep learning.
 
 ### 💬 Ask me about
-- My projects in AI, particularly in speaker identification, medical image synthesis, and eye disease detection.
+- My projects in AI, particularly in Agentic Workflows, Image Entity Extraction, Visual Q&A, speaker identification, medical image synthesis, and eye disease detection.
 - The technical stack and tools I use for AI and machine learning development.
 
 ## 🌐Socials
